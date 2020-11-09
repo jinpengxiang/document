@@ -2,9 +2,9 @@
 
 * [目录](README.md)
 * 1.个人GITHUB-VIEW
-    * [1.1 GITHUB](DESC/docker-使用.md)
+    * [1.1 GITHUB](DESC/github.md)
 * 2.kubernetes（K8S）实现架构图
-    * [2.1 kubernetes](DESC/docker-使用.md)
+    * [2.1 kubernetes](DESC/k8s.md)
 * 3.技术框架（配置整合、业务场景整合、技术、解决方案整合）
     * [3.1 技术框架](FRAME-WORK/技术框架.md)  
 * 4.技术中台（分布式-通用服务）
@@ -12,8 +12,8 @@
     * [4.2 配置中心](DESC/配置中心.md)
     * [4.3 调度中心](DESC/调度中心.md)
     * [4.4 微服务监控](DESC/微服务监控.md)
-    * [4.5 NACOS-集群](DESC/微服务监控.md)
-    * [4.6 分布式事务](DESC/微服务监控.md)    
+    * [4.5 NACOS-集群]
+    * [4.6 分布式事务] 
 * 5.框架组件（使用介绍）
     * [5.1 AUTH2认证](STARTER/AUTH2认证.md)
     * [5.2 API异常处理](STARTER/API异常处理.md)
